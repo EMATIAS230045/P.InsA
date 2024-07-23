@@ -18,13 +18,13 @@ En la institución aún se utiliza el papel como medio de llenado de documentaci
 
   
   
-  # OBJETIVO GENERAL 
+  ## OBJETIVO GENERAL 
   
 Desarrollar una aplicación móvil innovadora, InsA, diseñada para transformar la gestión de inspecciones ambientales mediante una interfaz intuitiva y un rendimiento óptimo. Nuestro objetivo es reducir significativamente el uso de papel en las actividades de inspección, contribuyendo así a la conservación de recursos naturales. InsA facilitará a los inspectores ambientales el registro y manejo eficiente de datos, asegurando una gestión ordenada y efectiva de documentos, mientras proporciona una experiencia de usuario excepcional con características innovadoras que mejoran la eficiencia operativa y el impacto ambiental positivo.
     
 
 
-# OBJETIVOS ESPECIFICOS
+## OBJETIVOS ESPECIFICOS
 
 1. La aplicación InsA tiene como función facilitar el registro y el manejo de datos en el área de inspectores ambientales ya que cada semana hay entrada y salida de datos por lo que a los encargados se le podría facilitar tener una aplicación que les ayude a administrar los datos así mismo evitamos el uso de papel y la perdida de información en caso de posibles accidentes o aclaraciones.
 2. Al hacer su registro deben de ya tener considerado su equipo de máximo 6 personas y su líder encargado que será responsable de registrar a sus compañeros en la aplicación donde este podrá los dados personales de cada uno de los miembros del equipo.
@@ -40,14 +40,14 @@ Desarrollar una aplicación móvil innovadora, InsA, diseñada para transformar 
 
 
 
-# IDENTIDAD GRÁFICA
+## IDENTIDAD GRÁFICA
 Asi se veran algunos de los logos principales del proyecto
-## LOGO DE LA EMPRESA ECOLOGICAL TECHNOLOGY ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) <br></br><br></br>
-## LOGO DE LA APLICACIÓN INSA![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) <br></br><br></br>
-# Vista que podria tener la aplicacion 
-## TEMATICA ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_162615ea.jpg) <br></br><br></br>
-## PALETA DE COLORES ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_7a6c78e1.jpg) <br></br><br></br>
-# LISTA DE TECNOLOGIAS
+### LOGO DE LA EMPRESA ECOLOGICAL TECHNOLOGY ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) <br></br><br></br>
+### LOGO DE LA APLICACIÓN INSA![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) <br></br><br></br>
+## Vista que podria tener la aplicacion 
+### TEMATICA ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_162615ea.jpg) <br></br><br></br>
+### PALETA DE COLORES ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_7a6c78e1.jpg) <br></br><br></br>
+## LISTA DE TECNOLOGIAS
 Estas tecnologias son las que se que utilizaran en el proyecto
   
  <p>
@@ -69,7 +69,7 @@ Documentación:
 
 </p>
 
-# AUTORES
+## AUTORES
 Estos son los principales colaboradores del proyecto integrador
 ### T.S.U. Erick Matias Granillo Mejia [@Ematias230045](https://github.com/Ematias230045)
 ### T.S.U. Jonathan Emmanuel López Morales [@Jonathan2536](https://github.com/Jonathan2536)
