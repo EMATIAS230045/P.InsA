@@ -6,7 +6,7 @@
 
 >IntegradoraI-NombreProyecto<br>
 >**| - BackEnd** <br>
->&nbsp;&nbsp;|- PHP<br>
+>&nbsp;&nbsp;**|- PHP**<br>
 >&nbsp;&nbsp;|- DB_Connection<br>
 >| - Databases<br>
 >| - Documentation<br>
