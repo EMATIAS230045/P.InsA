@@ -5,7 +5,7 @@
 ## Estructura de Archivos
 
 >IntegradoraI-NombreProyecto<br>
->  **- FrontEnd**
+>  **- FrontEnd**<br>
 >|- CSS<br>
 >&nbsp;&nbsp;|- HTML<br>
 >|- JS<br>
