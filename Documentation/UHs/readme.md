@@ -1,6 +1,11 @@
 ## **Historia de usuario**
 
-Una historia de usuario captura requisitos funcionales desde la perspectiva del usuario final.
+## Es una descripción breve y simple de una funcionalidad desde la perspectiva de un usuario final o cliente. 
+### El usuario beneficiado será el interesado en ingresar o unirse a nuestro equipo, lo que es, participar en el area de inspectores ambientales.
+
+### Podra tener los veneficios lo que es una inscripcion o registro facil al ingresar a nuestra pagina
+
+### Podra hacer un registro practico y facíl de actividades realisadas y asignadas nuestros lideres de area. 
 
 >Integradora-Insa<br>
 >| -Documentation<br>
