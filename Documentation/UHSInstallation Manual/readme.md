@@ -1,6 +1,8 @@
 ## **Manual de desistalacion**
 
 En esta capeta se encuentra la informacion de el medio mediante el cual los usuarios interactúan con un sistema informático, aplicaciones o dispositivos electrónicos utilizando elementos gráficos como iconos, botones, ventanas y menús.
+Se crea una explicacion paso a paso de como este podra interactuar con la aplicación, asi, el usuario comprendera con mas facilidad 
+que podra hacer y leer en esta.
 
 
 >Integradora-Insa<br>
