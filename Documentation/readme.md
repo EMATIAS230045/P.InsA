@@ -2,13 +2,20 @@
 
 En esta seccion encontraremos los archivos que tienen que ver con el funcionamiento de la aplicacion, incluyendo, la vista previa de como se vera, datos acerca del funcionamiento y los requerimientos que debe cumplir.
 
->Integradora-Insa<br>
->| -Documentation<br>
->&nbsp;&nbsp; **| -GUI**<br>
->&nbsp;&nbsp; | -Documentation<br>
->| - Database<br>
->| - Documentacion<br>
->| - FrontEnd
+## Estructura de Archivos
+
+IntegradoraI-InsA<br>
+| - BackEnd<br>
+| - Databases<br>
+**| - Documentation**<br>
+&nbsp;&nbsp;|- BRs<br>
+&nbsp;&nbsp;|- FRs<br>
+&nbsp;&nbsp;|- GUI<br>
+&nbsp;&nbsp;|- Instalation Manual<br>
+&nbsp;&nbsp;|- NFRs<br>
+&nbsp;&nbsp;|- UHs<br>
+&nbsp;&nbsp;**|- User Manual**<br>
+| - FrontEnd
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
