@@ -1,4 +1,4 @@
-## **Manual de Instalación**
+## **Installation Manual**
 
 Un manual de instalación detallado que proporciona instrucciones paso a paso sobre cómo instalar correctamente un producto, sistema o software. 
 
