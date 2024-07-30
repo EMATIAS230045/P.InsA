@@ -3,12 +3,20 @@
  Es una descripción breve y simple de una funcionalidad desde la perspectiva de un usuario final o cliente. 
 
 
->Integradora-Insa<br>
->| -Documentation<br>
->&nbsp;&nbsp; **| -UHs**<br>
->| - Database<br>
->| - Documentacion
->| - FrontEnd
+## Estructura de Archivos
+
+IntegradoraI-InsA<br>
+| - BackEnd<br>
+| - Databases<br>
+**| - Documentation**<br>
+&nbsp;&nbsp;|- BRs<br>
+&nbsp;&nbsp;|- FRs<br>
+&nbsp;&nbsp;|- GUI<br>
+&nbsp;&nbsp;|- Instalation Manual<br>
+&nbsp;&nbsp;|- NFRs<br>
+&nbsp;&nbsp;**|- UHs**<br>
+&nbsp;&nbsp;|- User Manual<br>
+| - FrontEnd
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
