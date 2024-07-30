@@ -2,6 +2,20 @@
 
 En este archivo encontraremos las reglas de negocio, donde contendra los limites que tendra el proyecto.
 
+## Estructura de Archivos
+
+>IntegradoraI-NombreProyecto<br>
+>| - BackEnd <br>
+>| - Databases<br>
+>**| - Documentation**<br>
+>&nbsp;&nbsp;**|- BRs**<br>
+>&nbsp;&nbsp;|- FRs<br>
+>&nbsp;&nbsp;|- GUI<br>
+>&nbsp;&nbsp;|- Instalation Manual<br>
+>&nbsp;&nbsp;|- NFRs<br>
+>&nbsp;&nbsp;|- UHs<br>
+>&nbsp;&nbsp;|- User Manual<br>
+>| - FrontEnd
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
