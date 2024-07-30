@@ -2,7 +2,7 @@
 
 El manual de usuario proporciona instrucciones detalladas sobre cómo usar un producto, servicio o sistema. 
 
->Integradora-Insa<br>
+>Integradora-InsA<br>
 >| -Documentation<br>
 >&nbsp;&nbsp; **| -GUI**<br>
 >&nbsp;&nbsp; | -SiteMap<br>
