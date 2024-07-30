@@ -6,8 +6,8 @@ La carpeta PHP contiene todos los archivos de código fuente en PHP que implemen
 
 >IntegradoraI-NombreProyecto<br>
 >**| - BackEnd** <br>
->&nbsp;&nbsp;**|- PHP**<br>
 >&nbsp;&nbsp;|- DB_Connection<br>
+>&nbsp;&nbsp;**|- PHP**<br>
 >| - Databases<br>
 >| - Documentation<br>
 >| - FrontEnd
