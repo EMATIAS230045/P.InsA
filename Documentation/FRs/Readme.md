@@ -1,4 +1,4 @@
-## **Requerimientos Funcionales** 
+## **FRs (Requerimientos Funcionales)** 
 
 
 Es un documento esencial en el ciclo de vida de desarrollo de software o sistemas. Su objetivo principal es definir de manera detallada y precisa lo que el sistema debe hacer para cumplir con las necesidades y expectativas de los usuarios y las partes interesadas.
