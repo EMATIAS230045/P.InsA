@@ -1,6 +1,6 @@
 ## **Wireframes**
 
-Los wireframes van a ser representaciones visuales simples y esquemáticas de una interfaz de usuario o diseño de página web.
+Los wireframes son representaciones visuales simples y esquemáticas de una interfaz de usuario o diseño de página web.
 
 ## Estructura de Archivos
 
