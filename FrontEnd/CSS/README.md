@@ -2,18 +2,18 @@
 
 
  En esta sección encontraremos los archivos del estilo de la aplicación , incluyendo tipografias , colores ,dimensiones y animaciones de interacción.
+
 ## Estructura de Archivos
 
->IntegradoraI-InsA<br>
->| - BackEnd <br>
->| - Databases<br>
->| - Documentation<br>
->| - FrontEnd<br>
->&nbsp;&nbsp;|- **CSS**<br>
->&nbsp;&nbsp;|- HTML<br>
->&nbsp;&nbsp;|- JS<br>
->&nbsp;&nbsp;|- Assets<br
-
+IntegradoraI-InsA<br>
+| - BackEnd<br>
+| - Databases<br>
+| - Documentation<br>
+**| - FrontEnd**<br>
+&nbsp;&nbsp;**|- CSS**<br>
+&nbsp;&nbsp;|- HTML<br>
+&nbsp;&nbsp;|- JS<br>
+&nbsp;&nbsp;|- Assets<br>
 
 ## Equipo de Desarrollo
 
