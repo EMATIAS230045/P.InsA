@@ -4,9 +4,9 @@
  En esta sección encontraremos los archivos del estilo de la aplicación , incluyendo tipografias , colores ,dimensiones y animaciones de interacción.
 ## Estructura de Archivos
 
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-InsA<br>
 >| - BackEnd <br>
->| - Database<br>
+>| - Databases<br>
 >| - Documentation<br>
 >| - FrontEnd<br>
 >&nbsp;&nbsp;|- **CSS**<br>
