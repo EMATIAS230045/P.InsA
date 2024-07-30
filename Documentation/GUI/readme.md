@@ -1,4 +1,4 @@
-## **Wireframes**
+## **GUI**
 
 En este apartado interactúan con un sistema informático, aplicaciones o dispositivos electrónicos utilizando elementos gráficos como iconos, botones, ventanas y menús.
 
@@ -15,7 +15,7 @@ IntegradoraI-InsA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- SiteMap<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**|- Wireframes**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
 &nbsp;&nbsp;|- Instalation Manual<br>
 &nbsp;&nbsp;|- NFRs<br>
 &nbsp;&nbsp;|- UHs<br>
