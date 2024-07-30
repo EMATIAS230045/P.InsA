@@ -4,7 +4,7 @@ En este archivo encontraremos las reglas de negocio, donde contendra los limites
 
 ## Estructura de Archivos
 
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-InsA<br>
 >| - BackEnd <br>
 >| - Databases<br>
 >**| - Documentation**<br>
