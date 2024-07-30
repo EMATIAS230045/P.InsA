@@ -1,4 +1,4 @@
-## **Requerimientos No Funcionales**
+## **NFRs (Requerimientos No Funcionales)**
 
 Es un componente crucial en el desarrollo de sistemas y software, ya que define las características y atributos que el sistema debe cumplir más allá de sus funciones básicas. Estos requerimientos no se refieren a qué debe hacer el sistema, sino a cómo debe hacerlo.
 Describe el propósito de la carpeta de requerimientos no funcionales. Su objetivo es especificar los atributos del sistema que garantizan su rendimiento, seguridad, usabilidad y otras características importantes que afectan la calidad general del producto.
