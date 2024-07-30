@@ -7,7 +7,7 @@ El propósito de este documento es proporcionar una descripción clara y complet
 
 ## Estructura de Archivos
 
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-InsA<br>
 >| - BackEnd <br>
 >| - Databases<br>
 >**| - Documentation**<br>
