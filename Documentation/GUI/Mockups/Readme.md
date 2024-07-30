@@ -6,15 +6,15 @@ Mockups ven a ser representaciones estáticas o interactivas de cómo se verá y
 >| -Documentation<br>
 >&nbsp;&nbsp; **| -GUI**<br>
 >&nbsp;&nbsp; **| -Mockups**<br>
->&nbsp;&nbsp; **| -Prototype**<br>
->&nbsp;&nbsp; **| -SiteMap**<br>
->&nbsp;&nbsp; **| -Sketches**<br>
->&nbsp;&nbsp; **| -Wireframes**<br>
->&nbsp;&nbsp; **| -Installation Manual**<br>
->&nbsp;&nbsp; **| -NFRs**<br>
->&nbsp;&nbsp; **| -UHSInstallation Manual**<br>
->&nbsp;&nbsp; **| -UHs**<br>
->&nbsp;&nbsp; **| -User Manual** <br>
+>&nbsp;&nbsp; | -Prototype<br>
+>&nbsp;&nbsp; | -SiteMap<br>
+>&nbsp;&nbsp; | -Sketches<br>
+>&nbsp;&nbsp; | -Wireframes<br>
+>&nbsp;&nbsp; | -Installation Manual<br>
+>&nbsp;&nbsp; | -NFRs<br>
+>&nbsp;&nbsp; | -UHSInstallation Manual<br>
+>&nbsp;&nbsp; | -UHs<br>
+>&nbsp;&nbsp; | -User Manual <br>
 >| - Databases<br>
 >| - Documentacion
 >| - FrontEnd
