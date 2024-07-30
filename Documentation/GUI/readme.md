@@ -4,7 +4,7 @@ En este apartado interactúan con un sistema informático, aplicaciones o dispos
 
 ## Estructura de Archivos
 
-IntegradoraI-NombreProyecto<br>
+IntegradoraI-InsA<br>
 | - BackEnd<br>
 | - Databases<br>
 **| - Documentation**<br>
