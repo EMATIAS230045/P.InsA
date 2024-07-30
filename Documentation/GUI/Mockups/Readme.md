@@ -6,7 +6,7 @@ Mockups ven a ser representaciones estáticas o interactivas de cómo se verá y
 >| -Documentation<br>
 >&nbsp;&nbsp; **| -GUI**<br>
 >&nbsp;&nbsp; | -Mockups<br>
->| - Database<br>
+>| - Databases<br>
 >| - Documentacion
 >| - FrontEnd
 
