@@ -5,6 +5,21 @@ Es un documento esencial en el ciclo de vida de desarrollo de software o sistema
 El propósito de este documento es proporcionar una descripción clara y completa de los requerimientos funcionales necesarios para el desarrollo del sistema. Sirve como guía para los diseñadores, desarrolladores, testers y cualquier otra persona involucrada en el proyecto.
 
 
+## Estructura de Archivos
+
+>IntegradoraI-NombreProyecto<br>
+>| - BackEnd <br>
+>| - Databases<br>
+>**| - Documentation**<br>
+>&nbsp;&nbsp;|- BRs<br>
+>&nbsp;&nbsp;**|- FRs**<br>
+>&nbsp;&nbsp;|- GUI<br>
+>&nbsp;&nbsp;|- Instalation Manual<br>
+>&nbsp;&nbsp;|- NFRs<br>
+>&nbsp;&nbsp;|- UHs<br>
+>&nbsp;&nbsp;|- User Manual<br>
+>| - FrontEnd
+
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|-------|---|-------------|
