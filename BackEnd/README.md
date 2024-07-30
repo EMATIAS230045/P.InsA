@@ -4,7 +4,7 @@
 
 ## Estructura de Archivos
 
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-InsA<br>
 >**| - BackEnd** <br>
 >&nbsp;&nbsp;|- PHP<br>
 >&nbsp;&nbsp;|- DB_Connection<br>
