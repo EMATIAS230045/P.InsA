@@ -1,4 +1,4 @@
-##  **Reglas de Negocio**
+##  **BRs (Reglas de Negocio)**
 
 En este archivo encontraremos las reglas de negocio, donde contendra los limites que tendra el proyecto.
 
