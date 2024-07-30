@@ -1,4 +1,4 @@
-## **UHs (Historias de Usuario)**
+## **UHs (Historia de Usuario)**
 
  Es una descripción breve y simple de una funcionalidad desde la perspectiva de un usuario final o cliente. 
 
