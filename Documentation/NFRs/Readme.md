@@ -1,25 +1,7 @@
 ## **Requerimientos No Funcionales**
 
-En esta seccion encontraremos los requerimientos no funcionales del proyecto.
-
-1. La aplicación debe garantizar la seguridad y privacidad de los datos almacenados.
-2. Debe tener una disponibilidad del 99.9% para garantizar su uso continuo.
-3. Debe ser compatible con una amplia gama de dispositivos y navegadores web.
-4. Debe cumplir con los estándares de accesibilidad para usuarios con discapacidades.
-5. Debe tener una capacidad de respuesta rápida, con tiempos de carga inferiores a 2 segundos.
-6. Debe ser escalable para manejar un crecimiento futuro en la cantidad de datos.
-7. Debe cumplir con los estándares de seguridad de la información, como GDPR o HIPAA.
-8. Debe tener una interfaz intuitiva que requiera poco o ningún entrenamiento para los usuarios.
-9. Debe ser capaz de manejar grandes volúmenes de datos sin comprometer el rendimiento.
-10. Debe tener una arquitectura modular para facilitar la mantenibilidad y la escalabilidad.
-11. Debe tener una interfaz de usuario atractiva para mejorar la experiencia del usuario.
-12. Debe tener una documentación completa y actualizada para ayudar a los administradores y usuarios.
-13. Debe tener una copia de seguridad regular y un plan de recuperación de datos.
-14. Debe cumplir con los estándares de seguridad de la industria para proteger los datos del usuario.
-15. Debe tener una integración fluida con sistemas existentes, como bases de datos y herramientas de análisis.
-16. Debe minimizar el consumo de recursos del sistema para optimizar el rendimiento.
-17. Debe tener una capacidad de gestión de errores robusta para manejar situaciones inesperadas.
-18. Debe tener un diseño adaptable que se ajuste a diferentes tamaños de pantalla y dispositivos.
+Es un componente crucial en el desarrollo de sistemas y software, ya que define las características y atributos que el sistema debe cumplir más allá de sus funciones básicas. Estos requerimientos no se refieren a qué debe hacer el sistema, sino a cómo debe hacerlo.
+Describe el propósito de la carpeta de requerimientos no funcionales. Su objetivo es especificar los atributos del sistema que garantizan su rendimiento, seguridad, usabilidad y otras características importantes que afectan la calidad general del producto.
 
 
 
