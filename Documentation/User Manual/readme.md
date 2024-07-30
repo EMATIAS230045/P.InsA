@@ -1,4 +1,4 @@
-## **Manual de usuario**
+## **User Manual (Manual de usuario)**
 
 El manual de usuario proporciona instrucciones detalladas sobre cómo usar un producto, servicio o sistema. 
 
