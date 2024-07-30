@@ -2,13 +2,20 @@
 
 Un manual de instalación detallado que proporciona instrucciones paso a paso sobre cómo instalar correctamente un producto, sistema o software. 
 
->Integradora-EduMatch<br>
->| -Documentation<br>
->&nbsp;&nbsp; **| -Installtion Manual**<br>
->| - Database<br>
->| - Documentacion<br>
->| - FrontEnd
+## Estructura de Archivos
 
+IntegradoraI-InsA<br>
+| - BackEnd<br>
+| - Databases<br>
+**| - Documentation**<br>
+&nbsp;&nbsp;|- BRs<br>
+&nbsp;&nbsp;|- FRs<br>
+&nbsp;&nbsp;|- GUI<br>
+&nbsp;&nbsp;|- **Instalation Manual**<br>
+&nbsp;&nbsp;|- NFRs<br>
+&nbsp;&nbsp;|- UHs<br>
+&nbsp;&nbsp;|- User Manual<br>
+| - FrontEnd
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
