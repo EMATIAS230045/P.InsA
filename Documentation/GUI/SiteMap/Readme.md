@@ -3,7 +3,9 @@
 SiteMap proporciona una vista general de la estructura y organización de las páginas y secciones dentro del sitio.
 
 
->IntegradoraI-InsA<br>
+## Estructura de Archivos
+
+IntegradoraI-InsA<br>
 | - BackEnd<br>
 | - Databases<br>
 **| - Documentation**<br>
