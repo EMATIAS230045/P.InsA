@@ -3,7 +3,25 @@
 Es un componente crucial en el desarrollo de sistemas y software, ya que define las características y atributos que el sistema debe cumplir más allá de sus funciones básicas. Estos requerimientos no se refieren a qué debe hacer el sistema, sino a cómo debe hacerlo.
 Describe el propósito de la carpeta de requerimientos no funcionales. Su objetivo es especificar los atributos del sistema que garantizan su rendimiento, seguridad, usabilidad y otras características importantes que afectan la calidad general del producto.
 
+## Estructura de Archivos
 
+IntegradoraI-InsA<br>
+| - BackEnd<br>
+| - Databases<br>
+**| - Documentation**<br>
+&nbsp;&nbsp;|- BRs<br>
+&nbsp;&nbsp;|- FRs<br>
+&nbsp;&nbsp;**|- GUI**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|- SiteMap<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
+&nbsp;&nbsp;|- Instalation Manual<br>
+&nbsp;&nbsp;**|- NFRs**<br>
+&nbsp;&nbsp;|- UHs<br>
+&nbsp;&nbsp;|- User Manual<br>
+| - FrontEnd
 
 
 ## Equipo de Desarrollo
