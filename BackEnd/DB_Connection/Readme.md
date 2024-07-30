@@ -6,8 +6,8 @@ La carpeta DB_Connection contiene los archivos necesarios para configurar y gest
 
 >IntegradoraI-InsA<br>
 >| - BackEnd <br>
->&nbsp;&nbsp;|- PHP<br>
 >&nbsp;&nbsp;**|- DB_Connection**<br>
+>&nbsp;&nbsp;|- PHP<br>
 >| - Database<br>
 >| - Documentation<br>
 >| - FrontEnd
