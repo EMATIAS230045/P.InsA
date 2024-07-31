@@ -3,7 +3,7 @@
 En esta sección de diccionario de datos describe todos los elementos de datos utilizados en el proyecto. Este recurso centraliza la definición de términos, estructuras y relaciones de datos para garantizar la consistencia y comprensión compartida dentro del equipo de desarrollo y con otras partes interesadas.
 ## Estructura de Archivos
 
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-InsA<br>
 >| - BackEnd <br>
 >| - Database<br>
 >&nbsp;&nbsp;|- Backups<br>
