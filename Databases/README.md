@@ -5,7 +5,7 @@ Dentro de esta carpeta, hay varios documentos llamados tablas, que están organi
 
 ## Estructura de Archivos
 
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-InsA<br>
 >| - BackEnd <br>
 >**| - Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>
