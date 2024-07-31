@@ -9,7 +9,7 @@
 
 >IntegradoraI-InsA<br>
 >| - BackEnd <br>
->| - Database<br>
+>| - Databases<br>
 >&nbsp;&nbsp;|- **Backups**<br>
 >&nbsp;&nbsp;|- Data Dictionary<br>
 >&nbsp;&nbsp;|- Diagrams<br>
