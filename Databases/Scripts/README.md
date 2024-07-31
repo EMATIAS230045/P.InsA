@@ -1,4 +1,4 @@
-# Queries  ![Queries](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+# Scripts  ![Scripts](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
  En el apartado de consultas en la documentación del proyecto describe las consultas o interrogaciones específicas que se utilizan para acceder y manipular datos en la base de datos del sistema. Estas consultas son fundamentales para obtener información precisa y realizar operaciones sobre los datos almacenados.
