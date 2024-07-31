@@ -7,7 +7,7 @@ La sección "USPS" alberga documentación, configuraciones y recursos relacionad
 
 ## Estructura de Archivos
 
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-InsA<br>
 >| - BackEnd <br>
 >| - Database<br>
 >&nbsp;&nbsp;|- **Backups**<br>
