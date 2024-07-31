@@ -8,7 +8,7 @@ La carpeta DB_Connection contiene los archivos necesarios para configurar y gest
 >| - BackEnd <br>
 >&nbsp;&nbsp;**|- DB_Connection**<br>
 >&nbsp;&nbsp;|- PHP<br>
->| - Database<br>
+>| - Databases<br>
 >| - Documentation<br>
 >| - FrontEnd
 
