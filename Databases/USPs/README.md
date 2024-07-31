@@ -10,7 +10,7 @@ La sección "USPS" alberga documentación, configuraciones y recursos relacionad
 >IntegradoraI-InsA<br>
 >| - BackEnd <br>
 >| - Database<br>
->&nbsp;&nbsp;|- **Backups**<br>
+>&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data Dictionary<br>
 >&nbsp;&nbsp;|- Diagrams<br>
 >&nbsp;&nbsp;|- Queries<br>
