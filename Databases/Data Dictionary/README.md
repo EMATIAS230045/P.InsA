@@ -5,7 +5,7 @@ En esta sección de diccionario de datos describe todos los elementos de datos u
 
 >IntegradoraI-InsA<br>
 >| - BackEnd <br>
->| - Database<br>
+>| - Databases<br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- **Data Dictionary**<br>
 >&nbsp;&nbsp;|- Diagrams<br>
