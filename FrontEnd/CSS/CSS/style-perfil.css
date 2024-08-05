@@ -1,0 +1,145 @@
+nav {
+  display: flex;
+  margin-left: 300px;
+  margin-top: 100px;
+  width: 400px;
+  height: 600px;
+  background-image: url(pexels-râmbeț-ioana-17847634.jpg);
+  background-size: cover;
+}
+#uno {
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+#titulo {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 90%;
+    height: 10%;
+    float: left;
+    background: rgba(63, 251, 63, 0.558);
+}
+h2 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+#nombre {
+    width: 100%;
+    height: 8%;
+    background: rgba(172, 255, 47, 0.548);
+    float: left;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+h4 {
+    text-align: center;
+}
+.unoo {
+    float: left;
+    width: 30%;
+    height: 100%;
+    background:rgba(99, 241, 71, 0.468);
+}
+.uno1 {
+    width: 50%;
+    height: 100%;
+    margin-left: 100px;
+    color: rgba(172, 255, 47, 0.548);
+}
+#apellidop {
+    width: 100%;
+    height: 8%;
+    background: rgba(172, 255, 47, 0.548);
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.dos {
+    float: left;
+    width: 40%;
+    height: 100%;
+    background:rgba(99, 241, 71, 0.468);
+}
+.dos1 {
+    width: 50%;
+    height: 100%;
+   
+    margin-left: 150px;
+}
+#apellidom {
+    width: 100%;
+    height: 8%;
+    background: rgba(172, 255, 47, 0.548);
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.tres {
+    float: left;
+    width: 40%;
+    height: 100%;
+    background:rgba(99, 241, 71, 0.468);
+}
+.tres1{
+    width: 50%;
+    height: 100%;
+    margin-left: 150px;
+}
+#carrera {
+    width: 100%;
+    height: 8%;
+    background: rgba(172, 255, 47, 0.548);
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.cuatro {
+    float: left;
+    width: 30%;
+    height: 100%;
+    background:rgba(99, 241, 71, 0.468);
+}
+.cuatro1 {
+    width: 50%;
+    height: 100%;
+    margin-left: 150px;
+}
+#btn {
+    width: 30%;
+    height: 6%;
+    float: left;
+    margin-top: 20px;
+    margin-left:180px;
+    border: 1px;
+    
+}
+#boton2 {
+    width: 30%;
+    height: 6%;
+    float: left;
+    margin-top: 20px;
+    margin-left:180px;
+    border: 1px;
+    
+}
+#matri {
+    width: 100%;
+    height: 8%;
+    background: rgba(172, 255, 47, 0.548);
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.cinco {
+    float: left;
+    width: 30%;
+    height: 100%;
+    background:rgba(99, 241, 71, 0.468);
+}
+.cinco1 {
+    width: 50%;
+    height: 100%;
+    margin-left: 150px;
+}
