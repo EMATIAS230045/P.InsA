@@ -1,0 +1,24 @@
+Table {
+    Width: 100%;
+    Border-collapse: collapse;
+   background-image: url(free-photo-of-paisaje-montanas-gente-punto-de-referencia.jpeg);
+}
+Th, td {
+    Border: 1px solid black;
+    Padding: 10px;
+    Text-align: left;
+}
+#uno{
+    margin-top: 60px;
+    margin-left: 400px;
+    width: 90%;
+    height: 10%;
+    float: left;
+}
+button {
+    width: 20%;
+    height: 10%;
+    background: rgba(165, 42, 42, 0.699);
+    color: white;
+}
+

@@ -1,0 +1,55 @@
+nav {
+ display: flex;
+ margin-left: 300px;
+ margin-top: 100px;
+ width: 400px;
+ height: 600px;
+ background-image: url(vecteezy_verde-tierra-y-un-arbol-para-tierra-dia-en-contra-un-blanco_31596438.jpg);
+ background-size: cover;
+}
+#dos {
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+#titulo {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 90%;
+    height: 10%;
+    float: left;
+    background: rgba(63, 251, 63, 0.558);
+}
+h2 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+#nombre {
+    width: 90%;
+    height: 5%;
+    background: rgba(144, 254, 104, 0.567);
+    color: black;
+    float: left;
+    margin-top: 250px;
+    margin-left: 60px;
+    border: 0px;
+}
+#contrasena {
+    width: 90%;
+    height: 5%;
+    background: rgba(144, 254, 104, 0.567);
+    color: black;
+    float: left;
+    margin-top: 40px;
+    margin-left: 60px;
+    border: 0px;
+}
+#mi-boton {
+    width: 30%;
+    height: 6%;
+    float: left;
+    margin-top: 40px;
+    margin-left:180px;
+    border: 1px;
+}
