@@ -75,7 +75,7 @@ Documentación:
 
 ## AUTORES
 Estos son los principales colaboradores del proyecto integrador
-### T.S.U. Erick Matias Granillo Mejia [@Ematias230045](https://github.com/Ematias230045)
-### T.S.U. Jonathan Emmanuel López Morales [@Jonathan2536](https://github.com/Jonathan2536)
-### T.S.U. Brisa Nallely Garcia Gregorio [@brisgregorio](https://github.com/Brisgregorio)
-### T.S.U Citlalli Pérez Dionicio [@KouDionicio](https://github.com/KouDionicio)
+#### T.S.U. Erick Matias Granillo Mejia [@Ematias230045](https://github.com/Ematias230045)
+#### T.S.U. Jonathan Emmanuel López Morales [@Jonathan2536](https://github.com/Jonathan2536)
+#### T.S.U. Brisa Nallely Garcia Gregorio [@brisgregorio](https://github.com/Brisgregorio)
+#### T.S.U Citlalli Pérez Dionicio [@KouDionicio](https://github.com/KouDionicio)
