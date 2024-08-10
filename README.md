@@ -17,7 +17,7 @@
 |------------------------|--------------------------|
 | ![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) |
 
-### Diagrama de equipo ![](https://cobaepedu-my.sharepoint.com/:i:/g/personal/emgranilloma20_cobaep_edu_mx/EZiyxpVjkkJKnldc8h84FDQBUrTYzur1tgpDZIDHUiVlhQ?e=eYWCXs) <br></br><br></br>
+### Diagrama de equipo ![](Imagen de WhatsApp 2024-08-09 a las 23.15.29_c3df0316.jpg) <br></br><br></br>
 
 ## Integrantes
 
