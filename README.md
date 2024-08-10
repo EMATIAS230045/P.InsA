@@ -1,4 +1,4 @@
-![UTXJ Logo]([https://path_to_logo_image](https://cobaepedu-my.sharepoint.com/:i:/g/personal/emgranilloma20_cobaep_edu_mx/EaXoxPC55FdOiOaS1aixCooBuw4FC2XMaiuVnCaTzwsO-Q?e=fHDtcd)) ![TI Logo]([https://path_to_logo_image](https://cobaepedu-my.sharepoint.com/:i:/g/personal/emgranilloma20_cobaep_edu_mx/EXpCwZf1f8VNmsvtt0TwfHsBOJGIEsQRk8yfe5MxbDM8oQ?e=t8WJ3M))
+![UTXJ Logo]([https://path_to_logo_image](https://cobaepedu-my.sharepoint.com/:i:/g/personal/emgranilloma20_cobaep_edu_mx/EaXoxPC55FdOiOaS1aixCooBuw4FC2XMaiuVnCaTzwsO-Q?e=fHDtcd)) ![TI Logo](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/utxj.png?raw=true)
 
 # Universidad Tecnológica de Xicotepec de Juárez
 
