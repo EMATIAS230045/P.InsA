@@ -17,6 +17,9 @@
 |------------------------|--------------------------|
 | ![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) |
 
+### Diagrama de equipo ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_162615ea.jpg) <br></br><br></br>
+
+
 
 
 
