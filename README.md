@@ -1,3 +1,25 @@
+![UTXJ Logo]([https://path_to_logo_image](https://cobaepedu-my.sharepoint.com/:i:/g/personal/emgranilloma20_cobaep_edu_mx/EaXoxPC55FdOiOaS1aixCooBuw4FC2XMaiuVnCaTzwsO-Q?e=fHDtcd)) ![TI Logo]([https://path_to_logo_image](https://cobaepedu-my.sharepoint.com/:i:/g/personal/emgranilloma20_cobaep_edu_mx/EXpCwZf1f8VNmsvtt0TwfHsBOJGIEsQRk8yfe5MxbDM8oQ?e=t8WJ3M))
+
+# Universidad Tecnológica de Xicotepec de Juárez
+
+## Ingeniería en Desarrollo y Gestión de Software
+
+### Tarea Integradora
+
+### Octavo Cuatrimestre Grupo B
+
+| NOMBRE DE LA EMPRESA | DeWeb |
+|----------------------|-------|
+| **PROYECTO**         | Aplicacion InsA |
+| **UNIDAD DE NEGOCIO**| Argue |
+
+| LOGO DEL SITIO         | LOGO DE LA EMPRESA       |
+|------------------------|--------------------------|
+| ![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) |
+
+
+
+
 # ProyectoIntegrador
 
 
@@ -42,8 +64,6 @@ Desarrollar una aplicación móvil innovadora, InsA, diseñada para transformar 
 
 ## IDENTIDAD GRÁFICA
 Asi se veran algunos de los logos principales del proyecto
-### LOGO DE LA EMPRESA ECOLOGICAL TECHNOLOGY ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) <br></br><br></br>
-### LOGO DE LA APLICACIÓN INSA![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) <br></br><br></br>
 ## Vista que podria tener la aplicacion 
 ### TEMATICA ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_162615ea.jpg) <br></br><br></br>
 
