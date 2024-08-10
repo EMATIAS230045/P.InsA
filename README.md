@@ -17,8 +17,16 @@
 |------------------------|--------------------------|
 | ![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) |
 
-### Diagrama de equipo ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_162615ea.jpg) <br></br><br></br>
+### Diagrama de equipo ![](https://cobaepedu-my.sharepoint.com/:i:/g/personal/emgranilloma20_cobaep_edu_mx/EZiyxpVjkkJKnldc8h84FDQBUrTYzur1tgpDZIDHUiVlhQ?e=eYWCXs) <br></br><br></br>
 
+## Integrantes
+
+| Nombre Completo              | Cargo                   | Empresa |
+|------------------------------|-------------------------|---------|
+|Erick Matias Granillo Mejia   | Líder/DB Manager        | InsA    |
+| Brisa Nallely Garcia Gregorio| Documentador            |InsA     |
+| Citlalli Pérez Dionicio      | Desarrollador Backend   | InsA    |
+|Jonathan Emanual Lópes Morales| Desarrollador Frontend  | InsA    |
 
 
 
