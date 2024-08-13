@@ -1,4 +1,4 @@
-![UTXJ Logo](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/utxj2.png?raw=true) ![TI Logo](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/utxj.png?raw=true)
+![UTXJ Logo](https://github.com/EMATIAS230045/P.InsA/blob/main/utxj2.png) ![TI Logo](https://github.com/EMATIAS230045/P.InsA/blob/main/utxj.png)
 
 # Universidad Tecnológica de Xicotepec de Juárez
 
