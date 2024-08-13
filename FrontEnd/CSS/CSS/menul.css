@@ -5,22 +5,32 @@ body {
     height: 100vh;
     margin: 0;
     background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); /* Reemplaza con la ruta de tu imagen */
-    background-size: cover;
-    background-position: center;
+    background-color: #f0f0f0;
     font-family: Arial, sans-serif;
 }
 
-.container {
-    text-align: center;
-    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semi-transparente */
-    padding: 20px;
+.menu-container {
+    background-color: white;
+    padding: 30px;
     border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
 }
 
-.button {
-    width: 150px;
+h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.menu-options {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-button {
     padding: 15px;
-    margin: 10px;
+    margin: 10px 0;
     border: none;
     border-radius: 5px;
     background-color: #007bff;
@@ -30,6 +40,6 @@ body {
     transition: background-color 0.3s;
 }
 
-.button:hover {
+.menu-button:hover {
     background-color: #0056b3;
 }
