@@ -1,29 +1,24 @@
-// Obtener el botón y la pantalla emergente
-const boton = document.getElementById('dos');
-
-
-// Agregar un evento de clic al botón
-boton.addEventListener('click', () => {
-    // Redirigir a la nueva página
-    window.location.href = 'login.html';
+document.getElementById('bitacoraBtn').addEventListener('click', function() {
+    // Aquí puedes redirigir a otra página o realizar otra acción
+    window.location.href = "bita.html";
 });
 
-// Obtener el botón y la pantalla emergente
-const boton2 = document.getElementById('tres');
-
-
-// Agregar un evento de clic al botón
-boton2.addEventListener('click', () => {
-    // Redirigir a la nueva página
-    window.location.href = 'perfil.html';
+document.getElementById('asistenciaBtn').addEventListener('click', function() {
+    // Aquí puedes redirigir a otra página o realizar otra acción
+    window.location.href = "asis.html";
 });
 
-// Obtener el botón y la pantalla emergente
-const boton3 = document.getElementById('cuatro');
+document.getElementById('registrarBtn').addEventListener('click', function() {
+    // Aquí puedes redirigir a otra página o realizar otra acción
+    window.location.href = "regis.html";
+});
 
+document.getElementById('reportesBtn').addEventListener('click', function() {
+    // Aquí puedes redirigir a otra página o realizar otra acción
+    window.location.href = "repo.html";
+});
 
-// Agregar un evento de clic al botón
-boton3.addEventListener('click', () => {
-    // Redirigir a la nueva página
-    window.location.href = 'asistencia.html';
+document.getElementById('horariosBtn').addEventListener('click', function() {
+    // Aquí puedes redirigir a otra página o realizar otra acción
+    window.location.href = "hora.html";
 });
