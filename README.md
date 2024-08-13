@@ -72,9 +72,17 @@ Desarrollar una aplicación móvil innovadora, InsA, diseñada para transformar 
 11. Por último, la gestión de revisión de recorrido se trata de que el administrador vero la documentación que el administrador secundario subirá a la base de datos asimismo verificara que los integrantes del equipo fueron cumplieron con los aspectos que se tenían que inspeccionar y comentarios que se hayan hecho.
 
     ##DIAGRAMA DE GANTT
-    ### TEMATICA ![]() <br></br><br></br>
+    ### Diagrama ![](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/Diagrama%20GANTT.png?raw=true) <br></br><br></br>
 
+## AUTORES
+Estos son los principales colaboradores del proyecto integrador:
 
+| Nombre                                    | Usuario de GitHub                               |
+|-------------------------------------------|-------------------------------------------------|
+| T.S.U. Erick Matias Granillo Mejia        | [@Ematias230045](https://github.com/Ematias230045) |
+| T.S.U. Jonathan Emmanuel López Morales    | [@Jonathan2536](https://github.com/Jonathan2536)   |
+| T.S.U. Brisa Nallely Garcia Gregorio      | [@brisgregorio](https://github.com/Brisgregorio)   |
+| T.S.U. Citlalli Pérez Dionicio            | [@KouDionicio](https://github.com/KouDionicio)     |
 
 
 ## IDENTIDAD GRÁFICA
@@ -108,9 +116,3 @@ Documentación:
 
 </p>
 
-## AUTORES
-Estos son los principales colaboradores del proyecto integrador
-#### T.S.U. Erick Matias Granillo Mejia [@Ematias230045](https://github.com/Ematias230045)
-#### T.S.U. Jonathan Emmanuel López Morales [@Jonathan2536](https://github.com/Jonathan2536)
-#### T.S.U. Brisa Nallely Garcia Gregorio [@brisgregorio](https://github.com/Brisgregorio)
-#### T.S.U Citlalli Pérez Dionicio [@KouDionicio](https://github.com/KouDionicio)
