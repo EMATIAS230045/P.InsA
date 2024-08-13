@@ -1,21 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu-InsA</title>
-    <link rel="stylesheet" href="style-menu.css">
+    <title>Menú Principal</title>
+    <link rel="stylesheet" href="menu.css">
 </head>
 <body>
-    <nav>
-<div id="uno">
-    <div id="titulo"><h2>Menu</h2></div>
-
-<div id="dos"><button id="dos1">Inicio</button></div>
-<div id="tres"><button id="tres1">Perfil</button></div>
-<div id="cuatro"><button id="cuatro1">Asistencia</button></div>
-</div>
-    </nav>
+    <div class="menu-container">
+        <h2>Menú Principal</h2>
+        <div class="menu-options">
+            <button class="menu-button" id="bitacoraBtn">Bitácora</button>
+            <button class="menu-button" id="asistenciaBtn">Asistencia</button>
+            <button class="menu-button" id="registrarBtn">Registrar</button>
+            <button class="menu-button" id="reportesBtn">Crear Reportes</button>
+            <button class="menu-button" id="horariosBtn">Asignacion de horarios</button>
+            <a href="login.html"><button class="menu-button">Regresar</button></a>
+        </div>
+    </div>
+    <script src="menu.js"></script>
 </body>
-<script src="menu.js"></script>
 </html>
