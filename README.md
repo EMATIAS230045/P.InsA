@@ -71,6 +71,10 @@ Desarrollar una aplicación móvil innovadora, InsA, diseñada para transformar 
 10. La gestión de planificación se trata de que el administrador planificará las actividades que se harán durante el recorrido ya sea si los inspectores tendrán que ir a los edificios a buscar solamente papel ir a juntar botellas o hacer actividades de campo.
 11. Por último, la gestión de revisión de recorrido se trata de que el administrador vero la documentación que el administrador secundario subirá a la base de datos asimismo verificara que los integrantes del equipo fueron cumplieron con los aspectos que se tenían que inspeccionar y comentarios que se hayan hecho.
 
+    ##DIAGRAMA DE GANTT
+    ### TEMATICA ![]() <br></br><br></br>
+
+
 
 
 ## IDENTIDAD GRÁFICA
