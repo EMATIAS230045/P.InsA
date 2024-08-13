@@ -1,3 +1,36 @@
+![UTXJ Logo](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/utxj2.png?raw=true) ![TI Logo](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/utxj.png?raw=true)
+
+# Universidad Tecnológica de Xicotepec de Juárez
+
+## Ingeniería en Desarrollo y Gestión de Software
+
+### Tarea Integradora
+
+### Octavo Cuatrimestre Grupo B
+
+| NOMBRE DE LA EMPRESA | DeWeb |
+|----------------------|-------|
+| **PROYECTO**         | Aplicacion InsA |
+| **UNIDAD DE NEGOCIO**| Argue |
+
+| LOGO DEL SITIO         | LOGO DE LA EMPRESA       |
+|------------------------|--------------------------|
+| ![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) |
+
+### Diagrama de equipo ![](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/Imagen%20de%20WhatsApp%202024-08-09%20a%20las%2023.15.29_c3df0316.jpg?raw=true) <br></br><br></br>
+
+## Integrantes
+
+| Nombre Completo              | Cargo                   | Empresa |
+|------------------------------|-------------------------|---------|
+|Erick Matias Granillo Mejia   | Líder/DB Manager        | InsA    |
+| Brisa Nallely Garcia Gregorio| Documentador            |InsA     |
+| Citlalli Pérez Dionicio      | Desarrollador Backend   | InsA    |
+|Jonathan Emanual Lópes Morales| Desarrollador Frontend  | InsA    |
+
+
+
+
 # ProyectoIntegrador
 
 
@@ -38,19 +71,19 @@ Desarrollar una aplicación móvil innovadora, InsA, diseñada para transformar 
 10. La gestión de planificación se trata de que el administrador planificará las actividades que se harán durante el recorrido ya sea si los inspectores tendrán que ir a los edificios a buscar solamente papel ir a juntar botellas o hacer actividades de campo.
 11. Por último, la gestión de revisión de recorrido se trata de que el administrador vero la documentación que el administrador secundario subirá a la base de datos asimismo verificara que los integrantes del equipo fueron cumplieron con los aspectos que se tenían que inspeccionar y comentarios que se hayan hecho.
 
+    ##DIAGRAMA DE GANTT
+    ### Diagrama ![](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/Captura%20de%20pantalla%20(78).png?raw=true) <br></br><br></br>
 
+## AUTORES
+Estos son los principales colaboradores del proyecto integrador:
 
-## IDENTIDAD GRÁFICA
-Asi se veran algunos de los logos principales del proyecto
-### LOGO DE LA EMPRESA ECOLOGICAL TECHNOLOGY ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) <br></br><br></br>
-### LOGO DE LA APLICACIÓN INSA![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) <br></br><br></br>
-## Vista que podria tener la aplicacion 
-### TEMATICA ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_162615ea.jpg) <br></br><br></br>
+| Nombre                                    | Usuario de GitHub                               |
+|-------------------------------------------|-------------------------------------------------|
+| T.S.U. Erick Matias Granillo Mejia        | [@Ematias230045](https://github.com/Ematias230045) |
+| T.S.U. Jonathan Emmanuel López Morales    | [@Jonathan2536](https://github.com/Jonathan2536)   |
+| T.S.U. Brisa Nallely Garcia Gregorio      | [@brisgregorio](https://github.com/Brisgregorio)   |
+| T.S.U. Citlalli Pérez Dionicio            | [@KouDionicio](https://github.com/KouDionicio)     |
 
-### PALETA DE COLORES ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_7a6c78e1.jpg) <br></br><br></br>
-=======
-## PALETA DE COLORES ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_7a6c78e1.jpg) <br></br><br></br>
->>>>>>> 2471fe4410ed68a0771715a8b1250980e6b57abf
 ## LISTA DE TECNOLOGIAS
 Estas tecnologias son las que se que utilizaran en el proyecto
   
@@ -71,11 +104,17 @@ Pruebas:
 Documentación:
 ![Markdown](https://img.shields.io/badge/Made%20with-Narkdown-1f425f.svg)
 
+
+
+## IDENTIDAD GRÁFICA
+Asi se veran algunos de los logos principales del proyecto
+## Vista que podria tener la aplicacion 
+### TEMATICA ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_162615ea.jpg) <br></br><br></br>
+
+### PALETA DE COLORES ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_7a6c78e1.jpg) <br></br><br></br>
+=======
+## PALETA DE COLORES ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_7a6c78e1.jpg) <br></br><br></br>
+>>>>>>> 2471fe4410ed68a0771715a8b1250980e6b57abf
+
 </p>
 
-## AUTORES
-Estos son los principales colaboradores del proyecto integrador
-#### T.S.U. Erick Matias Granillo Mejia [@Ematias230045](https://github.com/Ematias230045)
-#### T.S.U. Jonathan Emmanuel López Morales [@Jonathan2536](https://github.com/Jonathan2536)
-#### T.S.U. Brisa Nallely Garcia Gregorio [@brisgregorio](https://github.com/Brisgregorio)
-#### T.S.U Citlalli Pérez Dionicio [@KouDionicio](https://github.com/KouDionicio)
