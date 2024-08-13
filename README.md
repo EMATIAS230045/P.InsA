@@ -17,7 +17,7 @@
 |------------------------|--------------------------|
 | ![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) |
 
-### Diagrama de equipo ![](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/Imagen%20de%20WhatsApp%202024-08-09%20a%20las%2023.15.29_c3df0316.jpg?raw=true) <br></br><br></br>
+### Diagrama de equipo ![](https://github.com/EMATIAS230045/P.InsA/blob/main/Imagen%20de%20WhatsApp%202024-08-09%20a%20las%2023.15.29_c3df0316.jpg) <br></br><br></br>
 
 ## Integrantes
 
@@ -72,7 +72,7 @@ Desarrollar una aplicación móvil innovadora, InsA, diseñada para transformar 
 11. Por último, la gestión de revisión de recorrido se trata de que el administrador vero la documentación que el administrador secundario subirá a la base de datos asimismo verificara que los integrantes del equipo fueron cumplieron con los aspectos que se tenían que inspeccionar y comentarios que se hayan hecho.
 
     ##DIAGRAMA DE GANTT
-    ### Diagrama ![](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/Captura%20de%20pantalla%20(78).png?raw=true) <br></br><br></br>
+    ### Diagrama ![](https://github.com/EMATIAS230045/P.InsA/blob/main/Captura%20de%20pantalla%20(78).png) <br></br><br></br>
 
 ## AUTORES
 Estos son los principales colaboradores del proyecto integrador:
