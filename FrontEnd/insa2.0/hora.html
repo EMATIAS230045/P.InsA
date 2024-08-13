@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asignación de Horarios</title>
+    <link rel="stylesheet" href="hora.css">
+</head>
+<body>
+    <div class="schedule-container">
+        <h2>Asignación de Horarios</h2>
+        <form id="scheduleForm">
+            <div class="input-group">
+                <label for="employee">Empleado:</label>
+                <input type="text" id="employee" name="employee" required>
+            </div>
+            <div class="input-group">
+                <label for="day">Día de la Semana:</label>
+                <select id="day" name="day" required>
+                    <option value="">Seleccionar...</option>
+                    <option value="Lunes">Lunes</option>
+                    <option value="Martes">Martes</option>
+                    <option value="Miércoles">Miércoles</option>
+                    <option value="Jueves">Jueves</option>
+                    <option value="Viernes">Viernes</option>
+                    <option value="Sábado">Sábado</option>
+                    <option value="Domingo">Domingo</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <label for="startTime">Hora de Inicio:</label>
+                <input type="time" id="startTime" name="startTime" required>
+            </div>
+            <div class="input-group">
+                <label for="endTime">Hora de Fin:</label>
+                <input type="time" id="endTime" name="endTime" required>
+            </div>
+            <button type="submit" class="submit-button">Asignar Horario</button>
+        </form>
+        <a href="menu.html"><button type="submit" class="submit-button">Regresar</button></a>
+        <div id="scheduleList" class="schedule-list">
+            <h3>Horarios Asignados</h3>
+            <ul id="list"></ul>
+        </div>
+    </div>
+    <script src="hora.js"></script>
+</body>
+</html>

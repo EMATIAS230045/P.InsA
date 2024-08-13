@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Asistencia</title>
+    <link rel="stylesheet" href="asis.css">
+</head>
+<body>
+    <div class="attendance-container">
+        <h2>Registro de Asistencia</h2>
+        <form id="attendanceForm">
+            <div class="input-group">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="input-group">
+                <label for="status">Estado:</label>
+                <select id="status" name="status" required>
+                    <option value="">Seleccionar...</option>
+                    <option value="Presente">Presente</option>
+                    <option value="Ausente">Ausente</option>
+                </select>
+            </div>
+            <button type="submit" class="submit-button">Registrar Asistencia</button>
+        </form>
+        <a href="menu.html"><button class="submit-button">Regresar</button></a>
+
+        <div id="attendanceList" class="attendance-list">
+            <h3>Lista de Asistencia</h3>
+            <ul id="list"></ul>
+        </div>
+    </div>
+    <script src="asis.js"></script>
+</body>
+</html>
