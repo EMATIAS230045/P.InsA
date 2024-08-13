@@ -26,4 +26,4 @@ Dentro de esta carpeta, hay varios documentos llamados tablas, que están organi
 |Erick Matias Granillo Mejia|[@EMATIAS230045](https://github.com/EMATIAS230045)|Líder de Databases|👌✅ revisado y aprobado.|
 |Citlalli Pérez Dionicio|[@KouDionicio](https://github.com/KouDionicio)|Líder de Desarrollo BackEnd|❌ No Revisado.|
 |Brisa Nallely García Gregorio|[@Brisgregorio](https://github.com/Brisgregorio)|Líder de Documentation|❌ No revisado |
-|Jonathan Emmanuel López Morales|[@Jonathan2536](https://github.com/Jonathan2536)|Líder de Desarrollo FrontEnd|❌ No revisado|
+|Jonathan Emmanuel López Morales|[@Jonathan2536](https://github.com/Jonathan2536)|Líder de Desarrollo FrontEnd|✅ Revisado y aprobado |
