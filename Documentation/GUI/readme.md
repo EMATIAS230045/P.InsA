@@ -22,6 +22,10 @@ IntegradoraI-InsA<br>
 &nbsp;&nbsp;|- User Manual<br>
 | - FrontEnd
 
+
+## Logos 
+![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg)
+
 ## IDENTIDAD GRÁFICA
 Asi se veran algunos de los logos principales del proyecto
 ## Vista que podria tener la aplicacion 
