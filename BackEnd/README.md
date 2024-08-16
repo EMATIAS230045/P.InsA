@@ -1,6 +1,6 @@
 # BackEnd  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
- En esta sección se encontrarán los archivos de código fuente que dan la funcionalidad operativa a la aplicación web, además de la conexión y configuración a la Base de Datos Relacional (SQL) que permitirá la persistencia de los datos recolectados.
+<p align="justify">  En esta sección se encontrarán los archivos de código fuente que dan la funcionalidad operativa a la aplicación web, además de la conexión y configuración a la Base de Datos Relacional (SQL) que permitirá la persistencia de los datos recolectados. </p>
 
 ## Estructura de Archivos
 
