@@ -1,24 +1,31 @@
-document.getElementById('bitacoraBtn').addEventListener('click', function() {
-    // Aquí puedes redirigir a otra página o realizar otra acción
-    window.location.href = "bita.html";
-});
 
 document.getElementById('asistenciaBtn').addEventListener('click', function() {
-    // Aquí puedes redirigir a otra página o realizar otra acción
-    window.location.href = "asis.html";
+    // Rederigir
+    window.location.href = "ver.html";
 });
 
 document.getElementById('registrarBtn').addEventListener('click', function() {
-    // Aquí puedes redirigir a otra página o realizar otra acción
+    // Rederigir
     window.location.href = "regis.html";
 });
 
+document.getElementById('equiposBtn').addEventListener('click', function() {
+    // Rederigir
+    window.location.href = "equipo.html";
+});
+
 document.getElementById('reportesBtn').addEventListener('click', function() {
-    // Aquí puedes redirigir a otra página o realizar otra acción
-    window.location.href = "repo.html";
+    // Rederigir
+    window.location.href = "bit.html";
 });
 
 document.getElementById('horariosBtn').addEventListener('click', function() {
-    // Aquí puedes redirigir a otra página o realizar otra acción
+    // Rederigir
     window.location.href = "hora.html";
 });
+
+document.getElementById('cerrarBtn').addEventListener('click', function() {
+    // Rederigir
+    window.location.href = "login.html";
+});
+

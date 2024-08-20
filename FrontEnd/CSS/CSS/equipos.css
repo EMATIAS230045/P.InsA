@@ -1,0 +1,110 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); /* Imagen de fondo natural */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2C5F2D; /* Verde oscuro para el texto */
+}
+
+.view-teams-container {
+    background-color: #F7F4E9; /* Fondo beige claro */
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    width: 320px;
+    text-align: center;
+    border: 1px solid #8FBC8F;
+}
+
+h1 {
+    margin-bottom: 25px;
+    color: #2C5F2D; /* Verde oscuro */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.team-list {
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+.team-list ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.team-list li {
+    background-color: #E6EAE3; /* Fondo gris claro */
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #8FBC8F; /* Borde verde claro */
+    color: #2C5F2D; /* Verde oscuro */
+}
+
+button {
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+button.back-button {
+    background-color: #6B8E23; /* Verde oliva */
+    color: white;
+    padding: 12px 25px;
+    margin-top: 20px;
+}
+
+button.back-button:hover {
+    background-color: #556B2F; /* Verde más oscuro para el hover */
+    transform: translateY(-2px); /* Efecto sutil de levantamiento */
+}
+
+button img.button-icon {
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+#back {
+    background-color: #a93434; /* Cambia el color de fondo del botón */
+    border: 1px solid #cb110b; /* Opcional: Agrega un borde si lo deseas */
+}
+
+#back:hover {
+    background-color: #cc1a1a; /* Cambia el color de fondo al pasar el ratón */
+}
+
+/* Media Query para dispositivos móviles */
+@media (max-width: 480px) {
+    .view-teams-container {
+        width: 90%;
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .team-list li {
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    button.back-button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}

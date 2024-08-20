@@ -4,8 +4,9 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); /* Reemplaza con la ruta de tu imagen */
-    background-color: #f0f0f0;
+    background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); 
+    background-size: cover;
+    background-position: center;
     font-family: Arial, sans-serif;
 }
 

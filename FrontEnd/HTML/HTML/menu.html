@@ -7,15 +7,40 @@
     <link rel="stylesheet" href="menu.css">
 </head>
 <body>
+    
     <div class="menu-container">
+        <!-- Imagen circular en la parte superior -->
+        <h2>ADMINISTRADOR</h2>
+        <div class="image-container">
+            <img src="aplicacion.jpg" alt="Descripción de la imagen">
+        </div>
+
         <h2>Menú Principal</h2>
         <div class="menu-options">
-            <button class="menu-button" id="bitacoraBtn">Bitácora</button>
-            <button class="menu-button" id="asistenciaBtn">Asistencia</button>
-            <button class="menu-button" id="registrarBtn">Registrar</button>
-            <button class="menu-button" id="reportesBtn">Crear Reportes</button>
-            <button class="menu-button" id="horariosBtn">Asignacion de horarios</button>
-            <a href="login.html"><button class="menu-button">Regresar</button></a>
+            <button class="menu-button" id="asistenciaBtn">
+                <img src="lista-del-portapapeles.png" alt="Icono Asistencia" class="menu-icon">
+                Ver asistencia
+            </button>
+            <button class="menu-button" id="registrarBtn">
+                <img src="papel-de-registro.png" alt="Icono Registrar" class="menu-icon">
+                Registrar
+            </button>
+            <button class="menu-button" id="equiposBtn">
+                <img src="ojo.png" alt="Icono Equipos" class="menu-icon">
+                Ver equipos
+            </button>
+            <button class="menu-button" id="reportesBtn">
+                <img src="lista-de-tablas.png" alt="Icono Reportes" class="menu-icon">
+                Ver Bitacora
+            </button>
+            <button class="menu-button" id="horariosBtn">
+                <img src="calendario-reloj.png" alt="Icono Horarios" class="menu-icon">
+                Asignación de horarios
+            </button>
+            <button class="menu-button" id="cerrarBtn">
+                <img src="ingresar.png" alt="Icono Cerrar sesión" class="menu-icon">
+                Cerrar sesión
+            </button>
         </div>
     </div>
     <script src="menu.js"></script>

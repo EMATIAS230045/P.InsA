@@ -4,11 +4,11 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
     
-    // Aquí puedes agregar la lógica de autenticación
+    // Aquí puedes agregar autenticación
     if (username === "Jonathan" && password === "1234") {
         alert('Bienvenido, ' + username);
-        // Redirigir a otra página, por ejemplo:
-        // window.location.href = "dashboard.html";
+        // Redirigir a otra página
+        // window.location.href = "";
     } else {
         alert('Usuario o contraseña incorrectos');
     }

@@ -4,28 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bitácora</title>
-    <link rel="stylesheet" href="bita.css">
+    <link rel="stylesheet" href="bi.css">
 </head>
 <body>
     <div class="container">
-        <h2>Bitácora</h2>
-        <form id="addEntryForm">
-            <div class="input-group">
-                <label for="name">Nombre:</label>
-                <input type="text" id="name" required>
-            </div>
-            <button type="submit" class="submit-button">Agregar</button>
-        </form>
-        <a href="menu.html"><button type="submit" class="submit-button">Regresar</button></a>
+        <span id="user">Usuario: Jon (lider)</span>
+        <h1>Bitácora</h1>
+        <h3>Elije el Equipo:</h3>
+        <span id="group">
+            <select>
+                <option value="docencia1">Equipo1</option>
+                <option value="docencia2">Equipo2</option>
+                <option value="cafeteria">Equipo3</option>
+            </select>
+        </span>
+        
+        <div class="options">
+            <h3>Selecciona el edificio:</h3>
+            <select id="locations">
+                <option value="docencia1">Docencia1</option>
+                <option value="docencia2">Docencia2</option>
+                <option value="cafeteria">Cafetería</option>
+            </select>
+        </div>
 
-
-        <table id="bitacoraTable">
+        <table>
             <thead>
                 <tr>
-                    <th rowspan="2">Nombre</th>
+                    <th>Nombre</th>
                     <th colspan="5">Condiciones</th>
                 </tr>
                 <tr>
+                    <th id="dynamicName">Material</th>
                     <th>Papel</th>
                     <th>Pet</th>
                     <th>Agua</th>
@@ -35,16 +45,32 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Docencial</td>
-                    <td><input type="checkbox" class="checkbox"></td>
-                    <td><input type="checkbox" class="checkbox"></td>
-                    <td><input type="checkbox" class="checkbox"></td>
-                    <td><input type="checkbox" class="checkbox"></td>
-                    <td><input type="checkbox" class="checkbox"></td>
+                    <td id="locationName">Docencia1</td>
+                    <td><input type="checkbox" class="checkbox" data-cond="Papel"></td>
+                    <td><input type="checkbox" class="checkbox" data-cond="Pet"></td>
+                    <td><input type="checkbox" class="checkbox" data-cond="Agua"></td>
+                    <td><input type="checkbox" class="checkbox" data-cond="Luz"></td>
+                    <td><input type="checkbox" class="checkbox" data-cond="Otro"></td>
                 </tr>
             </tbody>
         </table>
+
+        <!-- Contenedor de botones centrados -->
+        <div class="button-container">
+            <button type="button" class="login-button" id="save">
+                <img src="flecha-de-circulo-de-disquete-a-la-derecha.png" class="button-icon">Guardar
+            </button>
+            <button type="button" class="login-button" id="backBtn">
+                <img src="deshacer.png" class="button-icon"> Regresar
+            </button>
+        </div>
+
+        <div id="results" class="results">
+            <!-- Aquí se insertarán las tablas dinámicamente -->
+        </div>
     </div>
+
     <script src="bita.js"></script>
 </body>
 </html>
+

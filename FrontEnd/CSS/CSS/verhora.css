@@ -1,0 +1,186 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); /* Imagen de fondo natural */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2C5F2D; /* Verde oscuro para el texto */
+}
+
+.schedule-container {
+    background-color: #F7F4E9; /* Tono beige claro */
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    width: 320px;
+    text-align: center;
+    border: 1px solid #8FBC8F; /* Borde verde claro */
+}
+
+h2 {
+    margin-bottom: 25px;
+    color: #2C5F2D; /* Verde oscuro */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.input-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label, select, input {
+    display: block;
+    width: 100%;
+}
+
+input, select {
+    padding: 12px;
+    margin-top: 8px;
+    border-radius: 8px;
+    border: 1px solid #8FBC8F; /* Borde verde claro */
+    background-color: #E6EAE3; /* Fondo gris claro */
+    color: #2C5F2D; /* Texto verde oscuro */
+    font-size: 14px;
+}
+
+.login-button, .submit-button, .submit-button-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: auto; /* Ajusta el ancho automáticamente según el contenido */
+    padding: 12px 25px;
+    margin-top: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: #6B8E23; /* Un verde oliva para el botón */
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    text-decoration: none; /* Asegura que los enlaces no tengan subrayado */
+}
+
+.login-button img.button-icon, .submit-button img.button-icon {
+    margin-right: 10px; /* Espacio entre la imagen y el texto */
+    width: 20px;
+    height: 20px;
+}
+
+.login-button:hover, .submit-button:hover, .submit-button-link:hover {
+    background-color: #556B2F; /* Un verde más oscuro para el hover */
+    transform: translateY(-2px); /* Un efecto sutil de levantamiento */
+}
+
+.submit-button {
+    width: auto;
+    padding: 12px 25px;
+    margin-top: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: #6B8E23; /* Verde oliva */
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.submit-button:hover {
+    background-color: #556B2F; /* Verde más oscuro */
+    transform: translateY(-2px); /* Efecto de levantamiento */
+}
+
+.schedule-list {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.schedule-list h3 {
+    margin-bottom: 15px;
+    color: #2C5F2D; /* Verde oscuro */
+}
+
+.schedule-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.schedule-list li {
+    padding: 12px;
+    margin-bottom: 10px;
+    background-color: #E6EAE3; /* Fondo gris claro */
+    border-radius: 8px;
+    border-left: 5px solid #6B8E23; /* Verde oliva */
+}
+
+#back {
+    background-color: #a93434; /* Cambia el color de fondo del botón */
+    border: 1px solid #cb110b; /* Opcional: Agrega un borde si lo deseas */
+}
+
+#back:hover {
+    background-color: #cc1a1a; /* Cambia el color de fondo al pasar el ratón */
+}
+
+/* Media Query para dispositivos móviles */
+@media (max-width: 480px) {
+    .schedule-container {
+        width: 90%; /* Ajusta el ancho del contenedor a un porcentaje en pantallas pequeñas */
+        padding: 15px; /* Reduce el padding */
+    }
+
+    h2 {
+        font-size: 20px; /* Reduce el tamaño del texto del encabezado */
+    }
+
+    .input-group {
+        margin-bottom: 15px; /* Reduce el margen inferior de los campos de entrada */
+    }
+
+    input, select {
+        padding: 10px; /* Reduce el padding de los campos de entrada */
+        font-size: 12px; /* Reduce el tamaño de la fuente de los campos de entrada */
+    }
+
+    .submit-button {
+        padding: 10px 20px; /* Reduce el padding de los botones */
+        font-size: 14px; /* Reduce el tamaño de la fuente de los botones */
+    }
+}
+
+
+
+
+.login-button, .submit-button, .submit-button-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: auto; /* Ajusta el ancho automáticamente según el contenido */
+    padding: 12px 25px;
+    margin-top: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: #6B8E23; /* Un verde oliva para el botón */
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    text-decoration: none; /* Asegura que los enlaces no tengan subrayado */
+}
+
+.login-button img.button-icon, .submit-button img.button-icon {
+    margin-right: 10px; /* Espacio entre la imagen y el texto */
+    width: 20px;
+    height: 20px;
+}
+
+.login-button:hover, .submit-button:hover, .submit-button-link:hover {
+    background-color: #556B2F; /* Un verde más oscuro para el hover */
+    transform: translateY(-2px); /* Un efecto sutil de levantamiento */
+}

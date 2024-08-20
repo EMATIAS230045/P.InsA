@@ -4,42 +4,103 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); /* Reemplaza con la ruta de tu imagen */
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
+    background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); /* Cambia la ruta a una imagen natural */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2C5F2D; /* Un verde oscuro para el texto */
 }
 
 .menu-container {
-    background-color: white;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #F7F4E9; /* Un tono beige claro para el fondo del contenedor */
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    width: 320px;
     text-align: center;
-    width: 300px;
+    border: 1px solid #8FBC8F; /* Borde verde claro */
 }
 
 h2 {
-    margin-bottom: 20px;
-    color: #333;
+    margin-bottom: 25px;
+    color: #2C5F2D; /* Verde oscuro */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.image-container {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.image-container img {
+    width: 160px; /* Ajusta el tamaño según tus necesidades */
+    height: 160px; /* Asegúrate de que la altura y el ancho sean iguales */
+    border-radius: 50%; /* Esto hará que la imagen sea circular */
+    object-fit: cover; /* Asegura que la imagen se recorte para llenar el contenedor circular */
+    border: 4px solid #8FBC8F; /* Un borde verde claro alrededor de la imagen */
 }
 
 .menu-options {
     display: flex;
     flex-direction: column;
+    align-items: center; /* Centra los botones horizontalmente */
 }
 
 .menu-button {
-    padding: 15px;
+    display: flex;
+    align-items: center; /* Alinea verticalmente el icono y el texto */
+    justify-content: center; /* Centra el texto y el icono horizontalmente dentro del botón */
+    padding: 12px 25px;
     margin: 10px 0;
     border: none;
-    border-radius: 5px;
-    background-color: #007bff;
+    border-radius: 8px;
+    background-color: #6B8E23; /* Verde oliva */
     color: white;
     font-size: 16px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s, transform 0.3s;
+    text-align: center; /* Centra el texto dentro del botón */
+    width: auto; /* Ajusta el ancho automáticamente según el contenido */
+}
+
+.menu-button img.menu-icon {
+    width: 20px; /* Tamaño del icono */
+    height: 20px; /* Tamaño del icono */
+    margin-right: 10px; /* Espacio entre el icono y el texto */
 }
 
 .menu-button:hover {
-    background-color: #0056b3;
+    background-color: #556B2F; /* Un verde más oscuro para el hover */
+    transform: translateY(-2px); /* Un efecto sutil de levantamiento */
+}
+
+#cierreBtn {
+    background-color: #a93434; /* Cambia el color de fondo del botón */
+    border: 1px solid #cb110b; /* Opcional: Agrega un borde si lo deseas */
+}
+
+#cierreBtn:hover {
+    background-color: #d80a0a; /* Cambia el color de fondo al pasar el ratón */
+}
+
+/* Media Query para dispositivos móviles */
+@media (max-width: 480px) {
+    .menu-container {
+        width: 90%; /* Ajusta el ancho del contenedor a un porcentaje en pantallas pequeñas */
+        padding: 9px; /* Reduce el padding */
+    }
+
+    h2 {
+        font-size: 20px; /* Reduce el tamaño del texto del encabezado */
+    }
+
+    .menu-button {
+        padding: 10px 20px; /* Reduce el padding de los botones */
+        font-size: 14px; /* Reduce el tamaño de la fuente de los botones */
+    }
+
+    .image-container img {
+        width: 120px; /* Reduce el tamaño de la imagen circular */
+        height: 120px; /* Ajusta la altura para que sea igual al ancho */
+    }
 }
