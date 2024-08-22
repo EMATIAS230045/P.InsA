@@ -6,7 +6,7 @@
 
 ### Tarea Integradora
 
-### Octavo Cuatrimestre Grupo B
+### Cuarto Cuatrimestre Grupo A
 
 | NOMBRE DE LA EMPRESA | DeWeb |
 |----------------------|-------|
