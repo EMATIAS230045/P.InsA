@@ -1,6 +1,7 @@
 # DB_Connection  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-La carpeta DB_Connection contiene los archivos necesarios para configurar y gestionar la conexión a la base de datos de la aplicación web. Incluye configuraciones de conexión, scripts para la creación y estructura de la base de datos, scripts de migración para cambios en el esquema, y datos iniciales para la base de datos.
+<p align="justify"> La carpeta DB_Connection contiene los archivos necesarios para configurar y gestionar la conexión a la base de datos de la aplicación web. Incluye configuraciones de conexión, scripts para la creación y estructura de la base de datos, scripts de migración para cambios en el esquema y datos iniciales para la base de datos.
+</p>
 
 ## Estructura de Archivos
 
