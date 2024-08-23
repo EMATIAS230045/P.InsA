@@ -1,0 +1,59 @@
+INSERT INTO `bd_insa`.`asistencias` (`id_asistencias`, `estado`, `fecha`, `nombres`, `matricula`, `num_equipop`, `area`, `hora`) VALUES ('55', 'ausente', '2024-08-12', 'nmatias', 'm_3290', '6', 'dsm', '12:20');
+
+UPDATE `bd_insa`.`asistencias` SET `nombres` = 'matias', `num_equipop` = '3' WHERE (`id_asistencias` = '55');
+
+CREATE TABLE `asistencias` (
+  `id_asistencias` int NOT NULL AUTO_INCREMENT,
+  `estado` enum('presente','ausente') DEFAULT NULL,
+  `fecha` date DEFAULT NULL,
+  `nombres` varchar(45) DEFAULT NULL,
+  `matricula` varchar(45) DEFAULT NULL,
+  `num_equipop` int DEFAULT NULL,
+  `area` varchar(45) DEFAULT NULL,
+  `hora` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`id_asistencias`),
+  KEY `ae_asistencia_equipo` (`num_equipop`),
+  CONSTRAINT `ae_asistencia_equipo` FOREIGN KEY (`num_equipop`) REFERENCES `equipos` (`id_equipo`)
+
+CREATE TABLE `bitacora` (
+  `Bitacora_id` int NOT NULL AUTO_INCREMENT,
+  `matricula_equipo` int NOT NULL,
+  `agua` tinyint(1) NOT NULL DEFAULT '0',
+  `papel` tinyint(1) NOT NULL DEFAULT '0',
+  `plastico` tinyint(1) NOT NULL DEFAULT '0',
+  `id_edificiop` int NOT NULL,
+  `fecha` date DEFAULT NULL,
+  `id_usuario` int DEFAULT NULL,
+  PRIMARY KEY (`Bitacora_id`),
+  KEY `be_bitacora_edificios` (`id_edificiop`),
+  KEY `be_bitacora_equipos` (`matricula_equipo`),
+  KEY `bu_bitacora_usuarios` (`id_usuario`),
+  CONSTRAINT `be_bitacora_edificios` FOREIGN KEY (`id_edificiop`) REFERENCES `edificios` (`id_edificio`),
+  CONSTRAINT `be_bitacora_equipos` FOREIGN KEY (`matricula_equipo`) REFERENCES `equipos` (`id_equipo`),
+  CONSTRAINT `bu_bitacora_usuarios` FOREIGN KEY (`id_usuario`) REFERENCES `usuarios` (`id_usuario`)
+
+DELETE FROM `bd_insa`.`asistencias` WHERE (`id_asistencias` = '54');
+
+CREATE TABLE `edificios` (
+  `id_edificio` int NOT NULL,
+  `nombre` varchar(255) CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci DEFAULT NULL,
+  PRIMARY KEY (`id_edificio`)
+)
+
+
+CREATE TABLE `usuarios` (
+  `id_usuario` int NOT NULL,
+  `Nombre` varchar(45) DEFAULT NULL,
+  `Telefono` varchar(45) DEFAULT NULL,
+  `Rol` enum('lider','integrante','administrador') DEFAULT NULL,
+  `correo` varchar(45) DEFAULT NULL,
+  `contraseña` varchar(45) DEFAULT NULL,
+  `id_horariosp` int DEFAULT NULL,
+  `num_equipo` int DEFAULT NULL,
+  `matricula` int DEFAULT NULL,
+  PRIMARY KEY (`id_usuario`),
+  KEY `uh_usuarios_horarios` (`id_horariosp`),
+  KEY `ue_usuarios_equipo` (`num_equipo`),
+  CONSTRAINT `ue_usuarios_equipo` FOREIGN KEY (`num_equipo`) REFERENCES `equipos` (`id_equipo`),
+  CONSTRAINT `uh_usuarios_horarios` FOREIGN KEY (`id_horariosp`) REFERENCES `horarios` (`id_horarios`)
+
