@@ -1,28 +1,70 @@
-document.getElementById('addEntryForm').addEventListener('submit', function(event) {
-    event.preventDefault(); // Evita que el formulario se envíe por defecto
+// Cambiar el nombre dinámico según la selección del usuario
+const locationSelect = document.getElementById('locations');
+const locationNameField = document.getElementById('locationName');
+const dynamicNameField = document.getElementById('dynamicName');
 
-    const name = document.getElementById('name').value;
+locationSelect.addEventListener('change', function() {
+    const selectedLocation = locationSelect.options[locationSelect.selectedIndex].text;
+    locationNameField.textContent = selectedLocation;
+    dynamicNameField.textContent = selectedLocation;
+});
 
-    // Crear una nueva fila en la tabla
-    const table = document.getElementById('bitacoraTable').getElementsByTagName('tbody')[0];
-    const newRow = table.insertRow();
+document.getElementById('save').addEventListener('click', function() {
+    const checkboxes = document.querySelectorAll('.checkbox');
+    const resultsDiv = document.getElementById('results');
 
-    // Insertar celdas en la fila
-    const cell1 = newRow.insertCell(0);
-    const cell2 = newRow.insertCell(1);
-    const cell3 = newRow.insertCell(2);
-    const cell4 = newRow.insertCell(3);
-    const cell5 = newRow.insertCell(4);
-    const cell6 = newRow.insertCell(5);
+    const selectedConditions = {
+        Papel: false,
+        Pet: false,
+        Agua: false,
+        Luz: false,
+        Otro: false
+    };
 
-    // Asignar valores a las celdas
-    cell1.textContent = name;
-    cell2.innerHTML = '<input type="checkbox" class="checkbox">';
-    cell3.innerHTML = '<input type="checkbox" class="checkbox">';
-    cell4.innerHTML = '<input type="checkbox" class="checkbox">';
-    cell5.innerHTML = '<input type="checkbox" class="checkbox">';
-    cell6.innerHTML = '<input type="checkbox" class="checkbox">';
+    checkboxes.forEach(function(checkbox) {
+        if (checkbox.checked) {
+            const cond = checkbox.getAttribute('data-cond');
+            selectedConditions[cond] = true;
+        }
+    });
 
-    // Limpiar el formulario
-    document.getElementById('addEntryForm').reset();
+    // Crear una nueva tabla para los resultados
+    const newTable = document.createElement('table');
+    newTable.innerHTML = `
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Papel</th>
+                <th>Pet</th>
+                <th>Agua</th>
+                <th>Luz</th>
+                <th>Otro</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>${locationSelect.options[locationSelect.selectedIndex].text}</td>
+                ${Object.keys(selectedConditions).map(key => `
+                    <td><input type="checkbox" ${selectedConditions[key] ? 'checked' : ''} disabled></td>
+                `).join('')}
+            </tr>
+        </tbody>
+    `;
+
+    // Añadir la nueva tabla al contenedor de resultados
+    resultsDiv.appendChild(newTable);
+
+    // Mostrar el contenedor de resultados
+    resultsDiv.style.display = 'block';
+
+    // Restablecer los checkboxes para permitir un nuevo registro
+    checkboxes.forEach(function(checkbox) {
+        checkbox.checked = false;
+    });
+});
+
+document.getElementById('backBtn').addEventListener('click', function() {
+    // alert('Regresando a la página anterior');
+    // Aquí puedes agregar la lógica para regresar a la página anterior
+    window.location.href = "menul.html";
 });

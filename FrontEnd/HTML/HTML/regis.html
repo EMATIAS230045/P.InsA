@@ -8,7 +8,8 @@
 </head>
 <body>
     <div class="register-container">
-        <h2>Registro de Usuarios</h2>
+        <span id="user">Usuario: Jon</span>
+        <h1>Registro de Usuarios</h1>
         <form id="registerForm">
             <div class="input-group">
                 <label for="name">Nombre:</label>
@@ -19,18 +20,42 @@
                 <input type="email" id="email" name="email" required>
             </div>
             <div class="input-group">
-                <label for="password">Contraseña:</label>
-                <input type="password" id="password" name="password" required>
+                <label for="role">Rol:</label>
+                <select id="role" name="role" required>
+                    <option value="user">Usuario</option>
+                    <option value="leader">Líder</option>
+                </select>
             </div>
-            <div class="input-group">
-                <label for="confirmPassword">Confirmar Contraseña:</label>
-                <input type="password" id="confirmPassword" name="confirmPassword" required>
+            <div id="extraFields" style="display: none;">
+                <div class="input-group">
+                    <label for="team">Equipo:</label>
+                    <input type="text" id="team" name="team">
+                </div>
+                <div class="input-group password-fields" style="display: none;">
+                    <label for="password">Contraseña:</label>
+                    <input type="password" id="password" name="password">
+                </div>
+                <div class="input-group password-fields" style="display: none;">
+                    <label for="confirmPassword">Confirmar Contraseña:</label>
+                    <input type="password" id="confirmPassword" name="confirmPassword">
+                </div>
             </div>
-            <button type="submit" class="submit-button">Registrar</button>
+            <div class="button-container">
+                <button type="submit" class="submit-button">
+                    <img src="flecha-de-circulo-de-disquete-a-la-derecha.png" class="button-icon" alt="Guardar"> Guardar
+                </button>
+                <button type="button" class="login-button" id="back">
+                    <img src="deshacer.png" class="button-icon" alt="Regresar"> Regresar
+                </button>
+            </div>
         </form>
-        <a href="menu.html"><button type="submit" class="submit-button">Regresar</button></a>
         <div id="message" class="message"></div>
     </div>
     <script src="regis.js"></script>
 </body>
 </html>
+
+
+<!-- Si es lider que me de la opcion de colocar contraseña si es usuario no  -->
+
+<!-- Cuando le de ver equipos me de el lider y los integrantes -->

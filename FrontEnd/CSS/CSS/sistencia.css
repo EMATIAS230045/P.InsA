@@ -1,0 +1,210 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); /* Cambia la ruta a una imagen natural */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2C5F2D; /* Un verde oscuro para el texto */
+}
+
+/* Estilos para el selector de fecha */
+.date-selector {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.date-selector label {
+    margin-right: 10px;
+    font-weight: bold;
+    color: #2C5F2D; /* Color verde oscuro */
+}
+
+.date-selector input[type="date"] {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #8FBC8F; /* Borde verde claro */
+    background-color: #E6EAE3; /* Fondo gris claro */
+}
+
+/* Estilo del contenedor principal */
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #F7F4E9; /* Un tono beige claro para el fondo del contenedor */
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo del encabezado */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+    color: #2C5F2D; /* Verde oscuro */
+    text-align: center;
+    flex-grow: 1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header #user, .header #group {
+    font-weight: bold;
+    color: #555;
+    flex-basis: 30%;
+    text-align: center;
+}
+
+/* Estilo de la tabla */
+.table-container {
+    overflow-x: auto; /* Permite desplazarse horizontalmente si la tabla es muy ancha */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: none; /* Eliminamos los bordes por defecto */
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 2px solid #ccc; /* Añadimos una línea de separación entre filas */
+}
+
+th {
+    background-color: #f0f0f0;
+    border-bottom: 3px solid #ccc; /* Línea más gruesa para el encabezado */
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Estilo de los botones */
+button {
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 8px; /* Bordes redondeados para un estilo más moderno */
+    border: none;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s; /* Transiciones suaves */
+}
+
+button.attendance-btn {
+    background-color: green;
+    color: white;
+}
+
+button.attendance-btn.absent {
+    background-color: red;
+}
+
+/* Contenedor de Botones Centrados */
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Espacio entre los botones */
+    margin-top: 20px;
+}
+
+.save-btn, .login-button {
+    width: auto;
+    padding: 12px 25px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.save-btn {
+    background-color: rgb(3, 122, 32);
+    color: white;
+}
+
+.login-button {
+    background-color: #6B8E23;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.login-button img.button-icon {
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+/* Hover effects */
+.save-btn:hover, .login-button:hover {
+    transform: translateY(-2px);
+}
+
+.save-btn:hover {
+    background-color: #556B2F;
+}
+
+.login-button:hover {
+    background-color: #556B2F;
+}
+
+/* Media Queries para dispositivos móviles */
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .header h1 {
+        text-align: left;
+        margin: 10px 0;
+    }
+
+    .header #user, .header #group {
+        text-align: left;
+        flex-basis: 100%;
+        margin-bottom: 5px;
+    }
+
+    table, th, td {
+        font-size: 14px; /* Tamaño de fuente más pequeño para móviles */
+    }
+
+    th, td {
+        padding: 10px; /* Reduce el padding en móviles */
+    }
+}
+
+#back {
+    background-color: #a93434; /* Cambia el color de fondo del botón */
+    border: 1px solid #cb110b; /* Opcional: Agrega un borde si lo deseas */
+}
+
+#back:hover {
+    background-color: #cc1a1a; /* Cambia el color de fondo al pasar el ratón */
+}
+
+@media (max-width: 480px) {
+    th, td {
+        font-size: 12px; /* Aún más pequeño para dispositivos muy pequeños */
+        padding: 8px;
+    }
+
+    button.save-btn {
+        font-size: 14px; /* Reducir el tamaño del texto en el botón */
+    }
+}

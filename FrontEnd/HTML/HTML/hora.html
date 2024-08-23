@@ -8,15 +8,33 @@
 </head>
 <body>
     <div class="schedule-container">
-        <h2>Asignación de Horarios</h2>
+        <span id="user">Usuario: Jon</span>
+        <h1>Asignación de Horarios</h1>
         <form id="scheduleForm">
             <div class="input-group">
                 <label for="employee">Empleado:</label>
-                <input type="text" id="employee" name="employee" required>
+                <select id="employee" name="employee" required>
+                    <option value="lider1">Líder 1</option>
+                    <option value="lider2">Líder 2</option>
+                    <option value="lider3">Líder 3</option>
+                </select>
             </div>
             <div class="input-group">
-                <label for="day">Día de la Semana:</label>
-                <select id="day" name="day" required>
+                <label for="startDay">Día de Inicio:</label>
+                <select id="startDay" name="startDay" required>
+                    <option value="">Seleccionar...</option>
+                    <option value="Lunes">Lunes</option>
+                    <option value="Martes">Martes</option>
+                    <option value="Miércoles">Miércoles</option>
+                    <option value="Jueves">Jueves</option>
+                    <option value="Viernes">Viernes</option>
+                    <option value="Sábado">Sábado</option>
+                    <option value="Domingo">Domingo</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <label for="endDay">Día de Fin:</label>
+                <select id="endDay" name="endDay" required>
                     <option value="">Seleccionar...</option>
                     <option value="Lunes">Lunes</option>
                     <option value="Martes">Martes</option>
@@ -35,9 +53,13 @@
                 <label for="endTime">Hora de Fin:</label>
                 <input type="time" id="endTime" name="endTime" required>
             </div>
-            <button type="submit" class="submit-button">Asignar Horario</button>
+            <button type="submit" class="submit-button">
+                <img src="asignar (1).png" class="button-icon" alt="Asignar"> Asignar Horario
+            </button>
         </form>
-        <a href="menu.html"><button type="submit" class="submit-button">Regresar</button></a>
+        <button type="button" class="login-button" id="back">
+            <img src="deshacer.png" class="button-icon" alt="Regresar"> Regresar
+        </button>
         <div id="scheduleList" class="schedule-list">
             <h3>Horarios Asignados</h3>
             <ul id="list"></ul>

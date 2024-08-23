@@ -1,0 +1,212 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpeg'); /* Imagen de fondo natural */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2C5F2D; /* Verde oscuro para el texto */
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    background-color: #F7F4E9; /* Beige claro */
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border: 1px solid #8FBC8F; /* Borde verde claro */
+}
+
+.login-button {
+    width: auto; /* Ajusta el ancho automáticamente según el contenido */
+    padding: 12px 25px;
+    margin-top: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: #6B8E23; /* Un verde oliva para el botón */
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none; /* Asegura que los enlaces no tengan subrayado */
+}
+
+.login-button img.button-icon {
+    margin-right: 10px; /* Espacio entre la imagen y el texto */
+    width: 20px;
+    height: 20px;
+}
+
+.login-button:hover {
+    background-color: #556B2F; /* Un verde más oscuro para el hover */
+    transform: translateY(-2px); /* Un efecto sutil de levantamiento */
+}
+
+
+h1 {
+    margin-bottom: 25px;
+    color: #2C5F2D; /* Verde oscuro */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3 {
+    text-align: left;
+    margin-bottom: 20px;
+    color: #2C5F2D; /* Verde oscuro */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.options {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label, select {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin-top: 15px;
+    border-radius: 8px;
+    border: 1px solid #8FBC8F; /* Borde verde claro */
+    background-color: #E6EAE3; /* Fondo gris claro */
+    color: #2C5F2D; /* Texto verde oscuro */
+    font-size: 14px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px solid #8FBC8F; /* Borde verde claro */
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #F7F4E9; /* Tono beige claro */
+    color: #2C5F2D; /* Verde oscuro */
+    font-weight: bold;
+}
+
+td {
+    background-color: #E6EAE3; /* Fondo gris claro */
+}
+
+.checkbox {
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #F2F2F2; /* Fondo gris claro alternativo */
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+/* Contenedor para centrar los botones */
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Espacio entre los botones */
+    margin-top: 20px;
+}
+
+button {
+    width: auto;
+    padding: 12px 25px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: #6B8E23; /* Verde oliva */
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #556B2F; /* Verde más oscuro */
+    transform: translateY(-2px); /* Efecto de levantamiento */
+}
+
+.results {
+    margin-top: 20px;
+}
+
+#backBtn {
+    background-color: #a93434; /* Cambia el color de fondo del botón */
+    border: 1px solid #cb110b; /* Opcional: Agrega un borde si lo deseas */
+}
+
+#backBtn:hover {
+    background-color: #cc1a1a; /* Cambia el color de fondo al pasar el ratón */
+}
+
+#back {
+    background-color: #a93434; /* Cambia el color de fondo del botón */
+    border: 1px solid #cb110b; /* Opcional: Agrega un borde si lo deseas */
+}
+
+#back:hover {
+    background-color: #cc1a1a; /* Cambia el color de fondo al pasar el ratón */
+}
+
+
+
+/* Media Query para dispositivos móviles */
+/* Media Query para dispositivos móviles */
+@media (max-width: 480px) {
+    .container {
+        width: 95%; /* Ajustar el ancho para pantallas más pequeñas */
+        padding: 0px; /* Reducir el padding */
+    }
+
+    h1 {
+        font-size: 18px; /* Reducir el tamaño del texto del título */
+    }
+
+    .options, table {
+        margin-bottom: 35px;
+    }
+
+    select {
+        padding: 10px;
+        font-size: 14px; /* Ajustar el tamaño de la fuente */
+    }
+
+    table {
+        width: 100%;
+        overflow-x: auto; /* Permitir desplazamiento horizontal */
+        display: block; /* Hacer que la tabla sea un bloque para permitir el desplazamiento */
+    }
+
+    th, td {
+        padding: 10px; /* Reducir el padding en celdas */
+        font-size: 17px; /* Reducir el tamaño de la fuente */
+    }
+
+    button {
+        padding: 10px 15px; /* Ajustar el padding de los botones */
+        font-size: 14px; /* Reducir el tamaño de la fuente */
+    }
+
+    .login-button img.button-icon {
+        width: 18px; /* Reducir el tamaño de los íconos */
+        height: 18px;
+    }
+}
