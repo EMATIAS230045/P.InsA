@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asignación de Horarios</title>
+    <link rel="stylesheet" href="../CSS/verhora.css">
+</head>
+<body>
+    <div class="schedule-container">
+        <span id="user">Usuario: Jon</span>
+        <div id="scheduleList" class="schedule-list">
+            <h1>Horarios Asignados</h1>
+            <ul id="list"></ul>
+        </div>
+        <form id="scheduleForm">
+            <div class="input-group">
+                <label for="employee">Empleado:</label>
+                <select id="employee" name="employee" required>
+                    <option value="lider1">Líder 1</option>
+                    <option value="lider2">Líder 2</option>
+                    <option value="lider3">Líder 3</option>
+                </select>
+            </div>
+        </form>
+        <a href="menul.php">
+        <button type="button" class="login-button" id="back">
+            <img src="../ASSETS/deshacer.png" class="button-icon"> Regresar
+        </button>
+        </a> 
+    </div>
+    <script src="verhora.js"></script>
+</body>
+</html>
