@@ -20,5 +20,5 @@
 |------------|--------|---|---|
 |Citlalli Pérez Dionicio|[@KouDionicio](https://github.com/KouDionicio)|Líder de Desarrollo BackEnd|✅ Revisado y aprobado.|
 |Jonathan Emmanuel López Morales|[@Jonathan2536](https://github.com/Jonathan2536)|Líder de Desarrollo FrontEnd|❌ No revisado|
-|Erick Matias Granillo Mejia|[@EMATIAS230045](https://github.com/EMATIAS230045)|Líder de Databases|❌ No revisado|
+|Erick Matias Granillo Mejia|[@EMATIAS230045](https://github.com/EMATIAS230045)|Líder de Databases|✅ Revisado y aprobado.|
 |Brisa Nallely García Gregorio|[@Brisgregorio](https://github.com/Brisgregorio)|Líder de Documentation|❌ No revisado |
