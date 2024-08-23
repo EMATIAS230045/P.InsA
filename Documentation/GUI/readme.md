@@ -23,6 +23,24 @@ IntegradoraI-InsA<br>
 | - FrontEnd
 
 
+## Logos 
+![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg)
+
+## IDENTIDAD GRÁFICA
+Asi se veran algunos de los logos principales del proyecto
+## Vista que podria tener la aplicacion 
+### TEMATICA ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_162615ea.jpg) <br></br><br></br>
+
+### PALETA DE COLORES ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_7a6c78e1.jpg) <br></br><br></br>
+=======
+## PALETA DE COLORES ![](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/Imagen%20de%20WhatsApp%202024-07-02%20a%20las%2012.23.52_7a6c78e1.jpg) <br></br><br></br>
+>>>>>>> 2471fe4410ed68a0771715a8b1250980e6b57abf
+
+</p>
+
+
+
+
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|-------|---|-------------|

@@ -1,7 +1,9 @@
 # PHP  ![PHP](https://img.shields.io/badge/PHP-777BB4?)
 
-La carpeta PHP contiene todos los archivos de código fuente en PHP que implementan la lógica del lado del servidor para la aplicación web. Incluye scripts para el manejo de solicitudes, la interacción con la base de datos, y la generación de contenido dinámico. También puede contener archivos de configuración y funciones reutilizables.
+<p align="justify">
 
+La carpeta 'PHP' contiene todos los archivos de código fuente en PHP que implementan la lógica del lado del servidor para la aplicación web. Incluye scripts para el manejo de solicitudes, la interacción con la base de datos, y la generación de contenido dinámico. También puede contener archivos de configuración y funciones reutilizables.
+</p>
 ## Estructura de Archivos
 
 >IntegradoraI-NombreProyecto<br>
