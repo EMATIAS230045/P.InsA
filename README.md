@@ -1,4 +1,4 @@
-![UTXJ Logo](https://github.com/EMATIAS230045/P.InsA/blob/main/utxj2.png) ![TI Logo](https://github.com/EMATIAS230045/P.InsA/blob/main/utxj.png)
+![UTXJ Logo](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/FrontEnd/Assets/utxj2.png?raw=true) ![TI Logo](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/FrontEnd/Assets/utxj.png?raw=true)
 
 # Universidad Tecnológica de Xicotepec de Juárez
 
@@ -17,7 +17,7 @@
 |------------------------|--------------------------|
 | ![Logo del Sitio](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/aplicacion.jpg) | ![Logo de la Empresa](https://github.com/Brisgregorio/ProyectoIntegrador/blob/main/empresa.jpg) |
 
-### Diagrama de equipo ![](https://github.com/EMATIAS230045/P.InsA/blob/main/Imagen%20de%20WhatsApp%202024-08-09%20a%20las%2023.15.29_c3df0316.jpg) <br></br><br></br>
+### Diagrama de equipo ![](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/FrontEnd/Assets/Imagen%20de%20WhatsApp%202024-08-09%20a%20las%2023.15.29_c3df0316.jpg?raw=true) <br></br><br></br>
 
 ## Integrantes
 
@@ -72,7 +72,7 @@ Desarrollar una aplicación móvil innovadora, InsA, diseñada para transformar 
 11. Por último, la gestión de revisión de recorrido se trata de que el administrador vero la documentación que el administrador secundario subirá a la base de datos asimismo verificara que los integrantes del equipo fueron cumplieron con los aspectos que se tenían que inspeccionar y comentarios que se hayan hecho.
 
     ##DIAGRAMA DE GANTT
-    ### Diagrama ![](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/Imagenes/Diagrama%20de%20GANTT.png?raw=true) <br></br><br></br>
+    ### Diagrama ![](https://github.com/EMATIAS230045/P.InsA/blob/Brisa/Documentation/GUI/SiteMap/Diagrama%20de%20GANTT.png?raw=true) <br></br><br></br>
 
 ## AUTORES
 Estos son los principales colaboradores del proyecto integrador:
